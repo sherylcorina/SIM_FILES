@@ -78,13 +78,13 @@ xsam.xc2.a                         7.39299e-07
 xsam.xc2.b1                        7.39299e-07
 xsam.4                             7.39299e-07
 xsam.5                               0.0862647
-xsam.xc3.a                         1.50693e-10
-xsam.xc3.b1                        1.50693e-10
-xsam.6                             1.50693e-10
+xsam.xc3.a                         1.51059e-10
+xsam.xc3.b1                        1.51059e-10
+xsam.6                             1.51059e-10
 xsam.7                                     1.8
 xsam.8                              4.3863e-10
 xsam.9                             2.19315e-10
-vin                                  0.0317441
+vin                                   0.116085
 v_sam                                        0
 xsam.xcsam.a                                 0
 xsam.xcsam.b1                                0
@@ -423,7 +423,7 @@ b1                                           0
 b0                                           0
 code                                         0
 analog                                       0
-bvi#branch                        -3.17441e+08
+bvi#branch                        -1.16085e+09
 bva#branch                                   0
 bvc#branch                                   0
 bv0#branch                                   0
@@ -446,7 +446,7 @@ vclk#branch                                  0
 vsoc#branch                                  0
 
 
-No. of Data Rows : 32406
+No. of Data Rows : 32437
 linearize tstart is set to: 1.570000e-06
 linearize tstop is set to: 1.250000e-05
 linearize tstep is set to: 8.000000e-07
